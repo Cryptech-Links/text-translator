@@ -1,0 +1,15 @@
+C:\Users\Kweku\Documents\Projects\Translator\Translator\bin\Debug\net6.0\Translator.exe
+C:\Users\Kweku\Documents\Projects\Translator\Translator\bin\Debug\net6.0\Translator.deps.json
+C:\Users\Kweku\Documents\Projects\Translator\Translator\bin\Debug\net6.0\Translator.runtimeconfig.json
+C:\Users\Kweku\Documents\Projects\Translator\Translator\bin\Debug\net6.0\Translator.dll
+C:\Users\Kweku\Documents\Projects\Translator\Translator\bin\Debug\net6.0\ref\Translator.dll
+C:\Users\Kweku\Documents\Projects\Translator\Translator\bin\Debug\net6.0\Translator.pdb
+C:\Users\Kweku\Documents\Projects\Translator\Translator\obj\Debug\net6.0\Translator.csproj.AssemblyReference.cache
+C:\Users\Kweku\Documents\Projects\Translator\Translator\obj\Debug\net6.0\Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kweku\Documents\Projects\Translator\Translator\obj\Debug\net6.0\Translator.AssemblyInfoInputs.cache
+C:\Users\Kweku\Documents\Projects\Translator\Translator\obj\Debug\net6.0\Translator.AssemblyInfo.cs
+C:\Users\Kweku\Documents\Projects\Translator\Translator\obj\Debug\net6.0\Translator.csproj.CoreCompileInputs.cache
+C:\Users\Kweku\Documents\Projects\Translator\Translator\obj\Debug\net6.0\Translator.dll
+C:\Users\Kweku\Documents\Projects\Translator\Translator\obj\Debug\net6.0\ref\Translator.dll
+C:\Users\Kweku\Documents\Projects\Translator\Translator\obj\Debug\net6.0\Translator.pdb
+C:\Users\Kweku\Documents\Projects\Translator\Translator\obj\Debug\net6.0\Translator.genruntimeconfig.cache
